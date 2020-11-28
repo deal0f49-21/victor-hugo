@@ -31,7 +31,7 @@ features:
     # feature item loop
   - title : "Easy Pricing"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Cheaper than Apple Store Price."
 
 
   # feature at the right of the image
@@ -39,17 +39,17 @@ features:
     # feature item loop
   - title : "Smooth Touch"
     icon : "tf-ion-ios-alarm-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Apple Simplistic Design."
 
     # feature item loop
   - title : "Elegant Design"
     icon : "tf-ion-ios-bell-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : ""
 
     # feature item loop
-  - title : "Easy Pricing"
+  - title : "Black Friday Deal"
     icon : "tf-ion-ios-cart-outline"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, inventore?"
+    content : "Deal Offer."
 
 
 ############################# promo ############################
