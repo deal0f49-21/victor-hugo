@@ -1,9 +1,10 @@
 ############################# banner ############################
 banner:
   enable : true
-  title : "Believe in Technology, Make the change"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
-  image : "images/watch.png"
+  title : "Apple Watch Series 5 (GPS + Cellular, 44mm) - Space Grey Aluminium Case with Black Sport Band"
+  content : "Receive 1 Bands free when you purchase 1 or more Watches offered by Amazon.co.uk.
+  Receive 1 free qualifying Apple Watch Band or Strap when you purchase 1 or more qualifying Apple Watch Series 5 Cellular Smartwatches offered by Amazon.co.uk. Select it here Here's how (terms and conditions apply)"
+  image : "https://images-na.ssl-images-amazon.com/images/I/71lx%2BITFLIL._AC_SL1500_.jpg"
   button:
    enable : true
    label : "Browse More More More Products"
@@ -13,7 +14,7 @@ banner:
 features:
   enable : true
   title : "Our Core Features"
-  image : "images/watch-2.png"
+  image : "https://images-na.ssl-images-amazon.com/images/I/71X0ZmJtDWL._AC_SL1500_.jpg"
 
   # feature at the left of the image
   left_side:
